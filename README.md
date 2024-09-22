@@ -9,7 +9,7 @@
 <br />
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd6anBlNWNmZWY1ZnhudTlheHc1Y3JjZWIzb2Fyam84dGdvMjdpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" width="230">
 ### 📫 Want to get in contact?
-The best way to get in contact is my [portfolio contact form](https://b-waters.com/) or you can email me directly at benwaters4@gmail.com.
+The best way to get in contact is my [portfolio contact form](https://b-waters.com/#contact) or you can email me directly at benwaters4@gmail.com.
 <br /><br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benwaters2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <br><br>
