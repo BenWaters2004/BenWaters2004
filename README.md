@@ -1,36 +1,71 @@
-# Hi, I'm Ben Waters!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-<p><em>Jr DevSec Ops Analyst at <a href="https://thinkbitsecurity.co.uk">BIT Security</a> and a full stack developer</em></p>
+<h1 align="center">
+  Let's Connect and have a Chat! 💬
+</h1>
 
-[![Linkedin: Ben Waters](https://img.shields.io/badge/-benwaters2004-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benwaters2004/)](https://www.linkedin.com/in/benwaters2004/)
-![GitHub followers](https://img.shields.io/github/followers/BenWaters2004?style=social)
-[![website](https://img.shields.io/badge/Website/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://b-waters.com)](https://b-waters.com)
-<img src="https://komarev.com/ghpvc/?username=benwaters2004&label=Profile%20views&color=0e75b6&style=flat" alt="benwaters2004" />
-<br />
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd6anBlNWNmZWY1ZnhudTlheHc1Y3JjZWIzb2Fyam84dGdvMjdpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" width="230">
-### 📫 Want to get in contact?
-The best way to get in contact is my [portfolio contact form](https://b-waters.com/#contact) or you can email me directly at benwaters4@gmail.com.
-<br /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benwaters2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<br><br>
-### Abit more about me :wave:
+<p align="center">
+    <a href="https://b-waters.com/">
+      <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+    </a>
+    <a href="https://www.linkedin.com/in/benwaters2004/">
+      <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    </a>
+</p>
 
-```PHP
-<?php
-function ME($whoAmI) {
-    if ($_SERVER['REQUEST_METHOD'] == "POST") {
-        $pronouns = $_POST["He | Him"];
-        $university = $_POST["BSc (Hons) Computer Science (Cyber Security) at the University of Plymouth"];
-        $funFact = $_POST["The first computer 'bug' was an actual real-life bug"];
-    }
+---
+<h2> Abit more about me :wave: </h2>
 
-    $Languages = array("PHP", "JavaScript", "C#");
-    $MarkupLanguages = array("HTML", "CSS");
+```YAML
+name: Ben Waters
+current_job: Jr DevSecOps Analyst
+pronouns: He/Him
+qualifications:
+  [
+    "Bachelor's in Computer Science (Cyber Security)",
+  ]
+company: BlueScreenIT Ltd (BIT Group)
 
-    $technologies = \DB::table('frameworks')->select('*')
-                    ->PHP('Laravel')
-                    ->JavaScript(['ThreeJS'=>'React']};
-    return $technologies;
-}
-?>
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "UI/UX",
+    "Cyber Security",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Jr DevSecOps Analyst",
+    "Freelance Web development",
+  ]
+
 ```
+---
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html"  height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="50"/>       
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" height="50"/>  
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
